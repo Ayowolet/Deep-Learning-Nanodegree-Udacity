@@ -1,6 +1,6 @@
 [//]: # (Image Reference)
 
-[image1]: .assets/processed_face_data.png "Generated Faces"
+[image1]: assets/processed_face_data.png "Generated Faces"
 
 # Face Generation
 
